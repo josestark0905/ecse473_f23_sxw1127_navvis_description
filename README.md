@@ -2,4 +2,4 @@
 ## launch with joint_state_publiser GUI
 roslaunch navvis_description display.launch use_xacro:=true use_gui:=true &
 ## launch without joint_state_publiser GUI
-roslaunch navvis_description display.launch use_xacro:=true&
+roslaunch navvis_description display.launch use_xacro:=true &
